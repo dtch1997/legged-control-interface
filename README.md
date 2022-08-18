@@ -5,9 +5,6 @@ This repo aims to design a unified and modular control architecture that enables
 
 ## Design
 
-### Motivation
-![control_architecture](docs/modular_control_arch.png)
-
 ### API
 
 The API for the controller and hardware interfaces is defined in `interfaces` 
